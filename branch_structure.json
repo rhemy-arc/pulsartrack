@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "improve-rust-ci-cache",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "improve-rust-ci-cache": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "improve-rust-ci-cache",
+    "origin"
+  ]
+}
